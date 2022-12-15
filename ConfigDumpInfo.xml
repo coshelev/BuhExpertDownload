@@ -33,7 +33,7 @@
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556" configVersion="f962f82c6f801d41ab3b207f5a3b143600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма.Form" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556.0" configVersion="518893d4d8061e46a7d4dfc4c52a705600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.ObjectModule" id="aaab9578-2277-4a85-b98d-141c934cc01f.0" configVersion="44151b08d1909545ba0c8f3175787b4200000000"/>
-		<Metadata name="DataProcessor.ОбменДанными" id="29f11b86-fe7c-4f41-80c3-cad58834ade2" configVersion="44eb882a64360249ae8dc9ea0470e31e00000000">
+		<Metadata name="DataProcessor.ОбменДанными" id="29f11b86-fe7c-4f41-80c3-cad58834ade2" configVersion="44706a94bb1d004bab708c47ba85ca0300000000">
 			<Metadata name="DataProcessor.ОбменДанными.Attribute.ОсновнойСклад" id="021ff169-240c-4261-af9d-4f845e06f45c"/>
 			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Модифицирован" id="06f617be-64b4-489c-b0ac-87b9c9e5e3e8"/>
 			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеГАЗ" id="07ef777e-6435-46a5-ab03-217d5877dabe"/>
