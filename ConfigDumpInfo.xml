@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.15">
 	<ConfigVersions>
-		<Metadata name="Configuration.Конфигурация" id="d60cbe05-07a9-42f3-9fff-dfacdb9eab01" configVersion="c7340c6609c25f44880e283a6acd1dab00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="d60cbe05-07a9-42f3-9fff-dfacdb9eab01" configVersion="7f3e488b54b6324687782397cc50082c00000000"/>
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы" id="b45913c4-8b7c-420c-b4a3-25bca3ed1ae3" configVersion="2bd67c58d5826443a1b7af0190dc7cd400000000">
 			<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Attribute.Организация" id="05ea9c21-2bd7-42eb-8826-350eee3f6502"/>
 			<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.TabularSection.СоответствиеТочекДоступа" id="12f5d439-05fb-4f37-bfeb-308c43a6bc24"/>
@@ -33,6 +33,100 @@
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556" configVersion="f962f82c6f801d41ab3b207f5a3b143600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма.Form" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556.0" configVersion="518893d4d8061e46a7d4dfc4c52a705600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.ObjectModule" id="aaab9578-2277-4a85-b98d-141c934cc01f.0" configVersion="44151b08d1909545ba0c8f3175787b4200000000"/>
+		<Metadata name="DataProcessor.ОбменДанными" id="29f11b86-fe7c-4f41-80c3-cad58834ade2" configVersion="44eb882a64360249ae8dc9ea0470e31e00000000">
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ОсновнойСклад" id="021ff169-240c-4261-af9d-4f845e06f45c"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Модифицирован" id="06f617be-64b4-489c-b0ac-87b9c9e5e3e8"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеГАЗ" id="07ef777e-6435-46a5-ab03-217d5877dabe"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Поставщик" id="089d1589-a2a4-4da7-b395-4d810897b4be"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаЗатратДляПоступлениеУслугИзПереработки" id="09a669fc-cf48-498b-b9a8-aa666194a243"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеФОРД" id="0a4d29b2-3a30-4b1c-94c8-e36adcb8f2a8"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НоменклатураДляПТУкакДоработка" id="0b18422a-f95c-4410-934a-6fe42af3bacc"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеВинаИПодразделения.Attribute.ПодразделениеПриемник" id="159b9a1f-d820-4b6f-b97d-287c407fa082"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ВалютаРегламентированногоУчета" id="171cac09-2ed1-48b7-843b-e5fd8727f4d8"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеВинаИПодразделения" id="181f465b-c32b-4d40-8d5a-c77474675ee3"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ПоказатьВыгруженныеНеИзмененные" id="1aef8f75-1886-4237-aec2-d1265c7c4d1a"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СтатьяЗатратДляПТУкакДоработка" id="1b6e15b0-a852-475b-90c8-1ca58ac7a537"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.НомерПеч" id="24c27a05-9e0d-4104-9bd4-ec6076e0a6d5"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Дата" id="2a654ea4-0ab0-4045-b06b-efb62b0bdae4"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СчетЗатратДляПоступлениеУслугИзПереработки" id="2dc5a795-ecb6-4b5d-acb4-eb29451851e7"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СтатьяЗатратУслугиДляПоступлениеУслугИзПереработки" id="301fe65a-1ad9-4d84-b936-d2d34a937688"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ВыбранныйФильтрОтображенияДокументов" id="32593da3-2fba-472c-a6c8-47d54f34f9ee"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемника.Attribute.Примечание" id="37b9c524-e617-4107-982f-5bebfa8145f3"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ДопСввоНомерВхДокПоступлениеИзПереработки" id="3c988764-9580-49f0-b3ab-1860abcf6b18"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СписокОшибок" id="3de88ef2-c3a2-42b7-bcd6-b82a1ef4b0bb"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ВэбСервер" id="3e12e36c-e091-4576-8e59-42ffb8994fc6"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ВидНоменклатуры" id="3e3883e8-cedf-4b09-8530-0a667a8e554b"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.УслугаДорабокиКакНоменклатура" id="405fa4e4-2ef1-45eb-9584-a6f6c15fc167"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Покупатель" id="44a99482-72bc-404b-b337-503686166a1c"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.УчетВРазрезеСкладов" id="45888edd-ecb2-4165-a2a0-56785cd360de"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеТочкиОформленияПодразделениюПриемника.Attribute.ТочкаОформленияКод" id="465f89d5-0ab5-4949-85a0-cf8c6478e701"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СписокВыполнено" id="4862c000-f8f2-4845-9d57-06fb025660a1"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаЧерезКомиссию" id="4a91177b-b05c-4536-ade7-39f45831927a"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоМосква" id="4b6f6b61-ad56-41a5-ab70-51fee62a0c21"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Номер" id="51798167-be34-4e3c-ae19-96f76f8e6aa0"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоМоскваГазконтракт" id="546085ea-b22d-4a88-b83b-9bcd115d233c"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.Организация" id="58ba9ce1-24aa-4565-aa64-15e42f27abfa"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.ИдВидаДокумента" id="5be9973a-b629-46f5-81e9-4e384a1735ed"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.Склады.Attribute.КодСкладаВБазеИсточнике" id="5cdae673-4dcf-4556-9c69-4d8797f5414b"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеТочкиОформленияПодразделениюПриемника.Attribute.Примечание" id="5f2c6e98-c826-4674-b393-a0bf1fbb0ec6"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ГруппаДляСозданияАвтомобилей" id="6a8ae292-e3f9-4137-baf3-751807cd7e3a"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемникаДляПТУ.Attribute.ПодразделениеПриемник" id="6bebee08-506a-4052-84dc-bb44f5b83c5f"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.КонецПериода" id="78daf184-072a-44f1-ac32-1f99c3e6ff16"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоТамбов" id="7ac4abfc-128b-44a7-8086-3c8e0f3c5d4c"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.Уфа_ПодразделениеВАЗ" id="8726dc7c-74e5-419d-b1c6-5393b1db2add"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.ГУИДДокументаИсточникаСтрокой" id="8b78f8f7-ef54-4fad-8a77-a6a73759ad4d"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоЛуидорГарантияУфа" id="8c5b3e64-39dc-459e-bf5e-a2d312a5a6f9"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемника.Attribute.ПодразделениеПриемник" id="926b10ea-cd35-4895-aa63-a1619383b77f"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемникаДляПТУ.Attribute.Примечание" id="94f53e05-c3c3-4043-8427-b3d46b254bb3"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ПерезаписыватьНаименованиеНоменклатуры" id="97082eb6-6375-4ba7-ad61-21dfcc0b3c83"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ДопСввоДатаВхДокПоступлениеИзПереработки" id="97f83eb1-e382-48fd-8828-1dca9eff0157"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеКамаз" id="9ca46646-c784-445c-8227-437d7b077f5f"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.НавСсылка" id="9ed9d17e-0d9a-4c76-af00-125bf657a615"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.Склады" id="a3c24c90-5f7b-4fe4-82a2-26cb8dd09e12"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоУфа" id="a7a9746f-1230-4844-9d44-9d5395697ed0"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеУАЗ" id="ab7c2838-2ef5-4b6c-90fd-5bb81b971c06"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаВторичные" id="aeab1730-49a0-4e04-985d-5a79183a84f9"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемникаДляПТУ.Attribute.СкладИсточникКод" id="af692e93-50ad-4ca6-9d1f-0e38dad4f95a"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.КодСкладаПолучателяВПеремещении" id="b85322fd-a3c7-4c9f-9991-7a47dd1aad33"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемникаДляПТУ" id="bfa8df12-b6fa-4dd4-999d-af4fd3f0ef9c"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоКазань" id="bfe9f3df-e297-470c-8dc0-346368995530"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НачалоПериода" id="c0eb9be9-7fd1-416d-834e-9f624ded817e"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ПроводитьДокументы" id="c2dd2ef0-a575-4265-80d8-973174c2a13e"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ПерезаписыватьДокументы" id="ca1ea218-368d-4506-87c3-85a83d744f23"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.УжеВыгружался" id="cacae770-472a-4732-a9ee-e61eba6bbb26"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ПоступлениеМатериаловКомплектации" id="caec4449-75dc-4d98-8fc0-23a138afa94e"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.УчетВРазрезеПодразделений" id="caf0c428-982b-4455-a98b-f917c5bd8d0f"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеТочкиОформленияПодразделениюПриемника.Attribute.ПодразделениеПриемник" id="cf1af5a2-425a-4b0a-82a2-fcc47ab6ee15"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.МВЗдляПоступлениеУслугИзПереработки" id="cf91f716-29a2-4089-a7ea-40c7e8f674bb"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Выбор" id="daaa24ae-fb1d-438e-85f2-546eaadf93a5"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ" id="db5aca4e-4c64-4844-a304-96ca21515846"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СоздаватьКонтрагентов" id="e2511baa-f9ee-4408-98eb-0f64b28d9a28"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.ЭтоЧелябинск" id="e71c2e55-55cd-4213-9551-b8e8875d9d35"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.ПеремещениеДоступноДляВыгрузки" id="e8217eb7-6d26-422d-beb5-2638a6a42583"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеТочкиОформленияПодразделениюПриемника" id="ea3cb6c4-4dd0-41de-928f-3e5c4f832792"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемника.Attribute.СкладИсточникКод" id="f48d6039-43bd-4cfc-a40b-5d1f7575d762"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеСкладаИсточникаПодразделениюПриемника" id="f6c9d168-ff4c-4825-ae94-8411ca05ea38"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Сумма" id="f96f6f63-5f23-4de0-871a-c6b606fe5c36"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.Склады.Attribute.Склад" id="f98c86de-7673-48eb-9d3e-7ecd9708dfa7"/>
+			<Metadata name="DataProcessor.ОбменДанными.TabularSection.СоответствиеВинаИПодразделения.Attribute.ВИН" id="fc487564-0ca7-4590-b1ed-c51933d47435"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.СтатьяЗатратМатериалыДляПоступлениеУслугИзПереработки" id="fd483d1e-f84d-42a2-948a-7ba1ffd218a3"/>
+			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеВАЗ" id="fdce7b76-a97f-4e50-8b66-2a6aee50fe2f"/>
+		</Metadata>
+		<Metadata name="DataProcessor.ОбменДанными.Form.Форма" id="5a19ce0d-ce05-4746-b259-cca74ec704b4" configVersion="24a0997ce57ca6498a3540c41f52701a00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Form.Форма.Form" id="5a19ce0d-ce05-4746-b259-cca74ec704b4.0" configVersion="58760cb3ab6ec44497a19e4759239fc000000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаHTML" id="a67dad25-9f83-4f5f-b8f9-2bf1d3a2ff75" configVersion="6b2f1dcec241474ab86812dd6fd9f5fc00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаHTML.Form" id="a67dad25-9f83-4f5f-b8f9-2bf1d3a2ff75.0" configVersion="e51198805b42fc4eb77d18c164bdc44400000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаОбъектаНTML" id="279a6557-5251-4a54-979c-6c715a9b4f99" configVersion="dd9cd88792770a4b9ec2b88378e764cf00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаОбъектаНTML.Form" id="279a6557-5251-4a54-979c-6c715a9b4f99.0" configVersion="3ee6bbf21c5eb4489647c3ae5fda508e00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.ObjectModule" id="29f11b86-fe7c-4f41-80c3-cad58834ade2.0" configVersion="d03ee839b03dcd4a8f518419edb4cd8600000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.ИсторияВерсий" id="d5b71bdb-85d4-4db4-ab58-f2f1be26927c" configVersion="24ea5920897bf443838579f268819d9d00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.ИсторияВерсий.Template" id="d5b71bdb-85d4-4db4-ab58-f2f1be26927c.0" configVersion="8ba07767a956cd40960a547bb1994d3e00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.Макет" id="1244decd-34ae-43c1-a88b-d2d455651c0d" configVersion="c6c9cecc07c0e54ab434e41c071d202c00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.Макет.Template" id="1244decd-34ae-43c1-a88b-d2d455651c0d.0" configVersion="707c24f25486624585d9726e394fd56200000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.МакетHTML1" id="2b73621c-caba-4cc2-8263-dac213110db2" configVersion="c449b1433f0dc3449210662b3ee07e7d00000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.МакетHTML1.Template" id="2b73621c-caba-4cc2-8263-dac213110db2.0" configVersion="61c9dc1ab1adfe459e9b1169597c84e100000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.Описание" id="77a965af-9b8b-4c94-b78b-dc568286eba0" configVersion="24ba99f6f6f29c45a2c04fd7ae32def900000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.Template.Описание.Template" id="77a965af-9b8b-4c94-b78b-dc568286eba0.0" configVersion="5d372dcb87663f49b5a2d1d3c71c306100000000"/>
 		<Metadata name="Language.Русский" id="4507807f-3287-4f8d-b6c5-32fb46f1ca35" configVersion="9631d9e14e349044b0e78477e1d8967600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

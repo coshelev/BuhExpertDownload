@@ -217,6 +217,7 @@
 			<Language>Русский</Language>
 			<DataProcessor>АВ_СинхронизацияДоговорыКонтрагенты</DataProcessor>
 			<DataProcessor>АВ_ЗагрузкаДанныхИзМатрицы</DataProcessor>
+			<DataProcessor>ОбменДанными</DataProcessor>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
