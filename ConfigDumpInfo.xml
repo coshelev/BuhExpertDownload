@@ -20,8 +20,8 @@
 			<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Attribute.ДатаНачала" id="e2612afa-53e5-4cd8-b907-946b2cd377b0"/>
 			<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.TabularSection.СоответствиеТочекДоступа.Attribute.Организация" id="fecdea5e-5533-48c3-b0b5-a4b993feea5a"/>
 		</Metadata>
-		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Form.Форма" id="39ec3578-9059-4fc5-bcec-8a71fd1b6f83" configVersion="e7f111718658184aae08eea171820e2800000000"/>
-		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Form.Форма.Form" id="39ec3578-9059-4fc5-bcec-8a71fd1b6f83.0" configVersion="3880810cc71e9840a4398579df2438e200000000"/>
+		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Form.Форма" id="39ec3578-9059-4fc5-bcec-8a71fd1b6f83" configVersion="9bd96ec8c02a71438e5b0ef024c4025200000000"/>
+		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Form.Форма.Form" id="39ec3578-9059-4fc5-bcec-8a71fd1b6f83.0" configVersion="a2a133eb54c56d4098e75094b2e28ac500000000"/>
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Form.ФормаОповещения" id="e3b0c857-f97e-4d21-a254-190e21d6572d" configVersion="5203583a5b44be4ebd4bc5ce35ba9a0100000000"/>
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Form.ФормаОповещения.Form" id="e3b0c857-f97e-4d21-a254-190e21d6572d.0" configVersion="1d89e937c1c09b44a63ad0f0ff424aed00000000"/>
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.ObjectModule" id="b45913c4-8b7c-420c-b4a3-25bca3ed1ae3.0" configVersion="d1c399ba9d4c50468b0ff8f8ba9ade2700000000"/>
@@ -29,10 +29,10 @@
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Template.Макет.Template" id="8372f64f-848d-4400-93a8-adf3b518953f.0" configVersion="95e9b62add7c1e45896630beb3a1171b00000000"/>
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Template.Новости" id="683c16d2-437c-4b85-905f-255874f2ecff" configVersion="b5cc8c620030ec4aa6db75407a61204b00000000"/>
 		<Metadata name="DataProcessor.АВ_ЗагрузкаДанныхИзМатрицы.Template.Новости.Template" id="683c16d2-437c-4b85-905f-255874f2ecff.0" configVersion="554d3998670f9d4fab2da4b6f2f370d300000000"/>
-		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты" id="aaab9578-2277-4a85-b98d-141c934cc01f" configVersion="7d25b963fc64f24091700a6d99a8185000000000"/>
+		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты" id="aaab9578-2277-4a85-b98d-141c934cc01f" configVersion="116dd0c23445894f97f340413ae9727f00000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556" configVersion="f962f82c6f801d41ab3b207f5a3b143600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма.Form" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556.0" configVersion="518893d4d8061e46a7d4dfc4c52a705600000000"/>
-		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.ObjectModule" id="aaab9578-2277-4a85-b98d-141c934cc01f.0" configVersion="9fa1dbea3e99e243aed35155e98e1cf700000000"/>
+		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.ObjectModule" id="aaab9578-2277-4a85-b98d-141c934cc01f.0" configVersion="44151b08d1909545ba0c8f3175787b4200000000"/>
 		<Metadata name="Language.Русский" id="4507807f-3287-4f8d-b6c5-32fb46f1ca35" configVersion="9631d9e14e349044b0e78477e1d8967600000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
