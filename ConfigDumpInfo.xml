@@ -33,7 +33,7 @@
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556" configVersion="f962f82c6f801d41ab3b207f5a3b143600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.Form.Форма.Form" id="0cb51ac3-5b77-4897-a72b-1cb2b1adb556.0" configVersion="518893d4d8061e46a7d4dfc4c52a705600000000"/>
 		<Metadata name="DataProcessor.АВ_СинхронизацияДоговорыКонтрагенты.ObjectModule" id="aaab9578-2277-4a85-b98d-141c934cc01f.0" configVersion="44151b08d1909545ba0c8f3175787b4200000000"/>
-		<Metadata name="DataProcessor.ОбменДанными" id="29f11b86-fe7c-4f41-80c3-cad58834ade2" configVersion="44706a94bb1d004bab708c47ba85ca0300000000">
+		<Metadata name="DataProcessor.ОбменДанными" id="29f11b86-fe7c-4f41-80c3-cad58834ade2" configVersion="5b7c78d0614c7f4abf6344371480c11e00000000">
 			<Metadata name="DataProcessor.ОбменДанными.Attribute.ОсновнойСклад" id="021ff169-240c-4261-af9d-4f845e06f45c"/>
 			<Metadata name="DataProcessor.ОбменДанными.TabularSection.ТЧ.Attribute.Модифицирован" id="06f617be-64b4-489c-b0ac-87b9c9e5e3e8"/>
 			<Metadata name="DataProcessor.ОбменДанными.Attribute.НомГруппаПродажаНовыеГАЗ" id="07ef777e-6435-46a5-ab03-217d5877dabe"/>
@@ -118,7 +118,7 @@
 		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаHTML.Form" id="a67dad25-9f83-4f5f-b8f9-2bf1d3a2ff75.0" configVersion="e51198805b42fc4eb77d18c164bdc44400000000"/>
 		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаОбъектаНTML" id="279a6557-5251-4a54-979c-6c715a9b4f99" configVersion="dd9cd88792770a4b9ec2b88378e764cf00000000"/>
 		<Metadata name="DataProcessor.ОбменДанными.Form.ФормаОбъектаНTML.Form" id="279a6557-5251-4a54-979c-6c715a9b4f99.0" configVersion="3ee6bbf21c5eb4489647c3ae5fda508e00000000"/>
-		<Metadata name="DataProcessor.ОбменДанными.ObjectModule" id="29f11b86-fe7c-4f41-80c3-cad58834ade2.0" configVersion="d03ee839b03dcd4a8f518419edb4cd8600000000"/>
+		<Metadata name="DataProcessor.ОбменДанными.ObjectModule" id="29f11b86-fe7c-4f41-80c3-cad58834ade2.0" configVersion="d6f36f713977804e9598000f5f2c0de200000000"/>
 		<Metadata name="DataProcessor.ОбменДанными.Template.ИсторияВерсий" id="d5b71bdb-85d4-4db4-ab58-f2f1be26927c" configVersion="24ea5920897bf443838579f268819d9d00000000"/>
 		<Metadata name="DataProcessor.ОбменДанными.Template.ИсторияВерсий.Template" id="d5b71bdb-85d4-4db4-ab58-f2f1be26927c.0" configVersion="8ba07767a956cd40960a547bb1994d3e00000000"/>
 		<Metadata name="DataProcessor.ОбменДанными.Template.Макет" id="1244decd-34ae-43c1-a88b-d2d455651c0d" configVersion="c6c9cecc07c0e54ab434e41c071d202c00000000"/>
